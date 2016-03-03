@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jiajianrong/jello-preprocessor-vmparse#readme",
   "readme": "#jello-preprocessor-vmparse\n******\n* 58金融事业部基于jello vm所编写的插件 \n* 接受两个参数 URL前添加的路径(prefixPath) 最终生成文件后缀(suffixType)",
   "readmeFilename": "README.md",
-  "_id": "jello-preprocessor-vmparse@3.0.0",
+  "_id": "jello-preprocessor-vmparse@3.1.0",
   "_shasum": "910e2225c91e64cf8d346d3fabbf77412716cfba",
   "_from": "jello-preprocessor-vmparse@*"
 }
